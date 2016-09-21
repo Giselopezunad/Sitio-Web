@@ -24,7 +24,7 @@ font-family: 'Shadows Into Light', cursive;
 color: white;
 margin-right: 10px;
 font-size: 30px;
-text-align: right; 
+text-align: center; 
 }
 
 h2{
@@ -38,7 +38,7 @@ text-align: left;
 h3{
 font-family: 'Shadows Into Light', cursive;;
 color: white;
-font-size: 30px;
+font-size: 10px;
 text-align: center; 
 }
 
@@ -96,7 +96,7 @@ width: 1000px;
 height: 100px;
 background: maroon;
 float: left;
-margin-top: 20px;
+margin-top: 10px;
 border-radius: 10px;
 margin-bottom: 20px;
 }
