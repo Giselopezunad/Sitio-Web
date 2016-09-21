@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: white;
 border-radius: 10px;
 
 }
@@ -74,7 +74,7 @@ li{
 
 section{
 	width: 600px;
-	background: gray;
+	background: white;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
@@ -83,7 +83,7 @@ section{
 aside{
 
 	width: 380px;
-	background: gray;
+	background: white;
 	height: 600px;
 	float: left;
 	margin-left: 20px;
@@ -115,8 +115,8 @@ p{
 
 /*CLASES*/
 
-.ancho_menu_home{width: 980px;}
-.ancho_menu_paginas{width: 900px;}
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
 
 .menu:link{color: white; text-decoration: none;}
 .menu:visited{color: white; text-decoration: none;}
