@@ -1,5 +1,5 @@
-/*font-family: 'Shadows Into Light', cursive;
- font-family: 'Indie Flower', cursive;
+/*font-family: '' PT Sans, sans-serif;
+ font-family: 'Amethysta', serif;
 */
 
 #contenidos{
@@ -20,15 +20,15 @@ background-size: cover;
 }
 
 h1{
-font-family: 'Shadows Into Light', cursive;
+font-family: '' PT Sans, sans-serif;
 color: white;
 margin-left: 10px;
-font-size: 50px;
-text-align: left; 
+font-size: 40px;
+text-align: right; 
 }
 
 h2{
-font-family: 'Indie Flower', cursive;
+font-family: 'Amethysta', serif;
 color: white;
 margin-left: 10px;
 font-size: 20px;
@@ -36,7 +36,7 @@ text-align: left;
 }
 
 h3{
-font-family: 'Shadows Into Light', cursive;;
+font-family: 'Amethysta', serif;
 color: white;
 font-size: 30px;
 text-align: center; 
@@ -62,10 +62,10 @@ padding-top: 4px;
 }
 
 li{
-	float: left;
+	float: center;
 	list-style-type: none;
 	padding: 10px;
-	background: black;
+	background: blue;
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
@@ -73,7 +73,7 @@ li{
 }
 
 section{
-	width: 700px;
+	width: 600px;
 	background: gray;
 	height: 600px;
 	float: left;
@@ -82,8 +82,8 @@ section{
 }
 aside{
 
-	width: 280px;
-	background: white;
+	width: 380px;
+	background: gray;
 	height: 600px;
 	float: left;
 	margin-left: 20px;
@@ -115,8 +115,8 @@ p{
 
 /*CLASES*/
 
-.ancho_menu_home{width: 900px;}
-.ancho_menu_paginas{width: 970px;}
+.ancho_menu_home{width: 980px;}
+.ancho_menu_paginas{width: 900px;}
 
 .menu:link{color: white; text-decoration: none;}
 .menu:visited{color: white; text-decoration: none;}
