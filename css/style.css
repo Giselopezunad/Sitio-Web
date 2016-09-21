@@ -3,7 +3,7 @@
 */
 
 #contenidos{
-	width: 2000px;
+	width: 1000px;
 	height: auto;
 	margin: auto;
 	position: relative;
@@ -37,20 +37,20 @@ text-align: left;
 
 h3{
 font-family: 'Shadows Into Light', cursive;;
-color: white;
+color: red;
 font-size: 10px;
 text-align: center; 
 }
 
 
 header{
-	width: 2000px;
+	width: 1000px;
 	height: 120 px;
 	background: rgba(255, 255, 255, 10,70);
 }
 
 nav{
-width: 2000px;
+width: 1000px;
 height: 50px;
 background: white;
 border-radius: 10px;
@@ -92,7 +92,7 @@ aside{
 }
 
 footer{
-width: 2000px;
+width: 1000px;
 height: 200px;
 background: white;
 float: left;
