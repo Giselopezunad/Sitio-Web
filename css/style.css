@@ -3,7 +3,7 @@
 */
 
 #contenidos{
-	width: 1000px;
+	width: 2000px;
 	height: auto;
 	margin: auto;
 	position: relative;
@@ -44,13 +44,13 @@ text-align: center;
 
 
 header{
-	width: 1000px;
+	width: 2000px;
 	height: 120 px;
 	background: rgba(255, 255, 255, 10,70);
 }
 
 nav{
-width: 1000px;
+width: 2000px;
 height: 50px;
 background: white;
 border-radius: 10px;
@@ -92,7 +92,7 @@ aside{
 }
 
 footer{
-width: 1000px;
+width: 2000px;
 height: 200px;
 background: white;
 float: left;
