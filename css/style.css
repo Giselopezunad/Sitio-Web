@@ -1,5 +1,5 @@
-/*font-family: '' PT Sans, sans-serif;
- font-family: 'Amethysta', serif;
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
 */
 
 #contenidos{
@@ -20,15 +20,15 @@ background-size: cover;
 }
 
 h1{
-font-family: '' PT Sans, sans-serif;
+font-family: 'Shadows Into Light', cursive;
 color: white;
 margin-left: 10px;
-font-size: 40px;
+font-size: 30px;
 text-align: right; 
 }
 
 h2{
-font-family: 'Amethysta', serif;
+font-family: 'Indie Flower', cursive;
 color: white;
 margin-left: 10px;
 font-size: 20px;
@@ -36,7 +36,7 @@ text-align: left;
 }
 
 h3{
-font-family: 'Amethysta', serif;
+font-family: 'Shadows Into Light', cursive;;
 color: white;
 font-size: 30px;
 text-align: center; 
@@ -62,7 +62,7 @@ padding-top: 4px;
 }
 
 li{
-	float: center;
+	float: left;
 	list-style-type: none;
 	padding: 10px;
 	background: blue;
