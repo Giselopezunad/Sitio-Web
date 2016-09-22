@@ -38,7 +38,7 @@ text-align: left;
 
 h3{
 font-family: 'Fanwood Text', serif;
-color: red;
+color: white;
 font-size: 10px;
 text-align: center; 
 }
@@ -83,7 +83,7 @@ section{
 }
 aside{
 
-	width: 280px;
+	width: 380px;
 	background: white;
 	height: 600px;
 	float: left;
