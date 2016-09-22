@@ -61,22 +61,11 @@ margin: auto;
 padding-top: 4px;
 }
 
-li:a{
+li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
 	background: blue;
-	margin: 3px;
-	border-radius: 10px;
-	box-shadow: 0 0 10px white inset; 
-
-}
-
-li:b{
-	float: left;
-	list-style-type: none;
-	padding: 10px;
-	background: red;
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset; 
@@ -94,7 +83,7 @@ section{
 aside{
 
 	width: 280px;
-	background: gray;
+	background: white;
 	height: 600px;
 	float: left;
 	margin-left: 20px;
