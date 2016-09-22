@@ -36,13 +36,6 @@ text-align: left;
 }
 
 h3{
-font-family: 'Indie Flower', cursive;
-color: white;
-margin-left: 10px;
-font-size: 20px;
-text-align: left; 
-
-h4{
 font-family: 'Shadows Into Light', cursive;;
 color: red;
 font-size: 10px;
@@ -100,10 +93,10 @@ aside{
 
 footer{
 width: 1000px;
-height: 200px;
+height: 70px;
 background: white;
 float: left;
-margin-top: 10px;
+margin-top: 20px;
 border-radius: 10px;
 margin-bottom: 20px;
 }
