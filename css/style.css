@@ -1,5 +1,6 @@
-/*font-family: 'Shadows Into Light', cursive;
- font-family: 'Indie Flower', cursive;
+/*font-family: 'Orienta', sans-serif;
+font-family: 'PT Serif Caption', serif;
+font-family: 'Fanwood Text', serif;
 */
 
 #contenidos{
@@ -20,7 +21,7 @@ background-size: cover;
 }
 
 h1{
-font-family: 'Shadows Into Light', cursive;
+font-family: 'PT Serif Caption', serif;
 color: white;
 margin-right: 10px;
 font-size: 30px;
@@ -28,7 +29,7 @@ text-align: center;
 }
 
 h2{
-font-family: 'Indie Flower', cursive;
+font-family: 'Orienta', sans-serif;
 color: white;
 margin-left: 10px;
 font-size: 20px;
@@ -36,7 +37,7 @@ text-align: left;
 }
 
 h3{
-font-family: 'Shadows Into Light', cursive;;
+font-family: 'Fanwood Text', serif;
 color: red;
 font-size: 10px;
 text-align: center; 
