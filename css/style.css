@@ -22,7 +22,7 @@ background-size: cover;
 
 h1{
 font-family: 'PT Serif Caption', serif;
-color: orange;
+color: white;
 margin-right: 10px;
 font-size: 30px;
 text-align: center; 
@@ -69,7 +69,7 @@ li{
 	background: blue;
 	margin: 3px;
 	border-radius: 10px;
-	box-shadow: 0 0 10px black inset; 
+	box-shadow: 0 0 10px white inset; 
 
 }
 
@@ -81,7 +81,7 @@ section{
 	margin-top: 20px;
 	border-radius: 10px;
 }
-aside{
+aside{b
 
 	width: 280px;
 	background: white;
